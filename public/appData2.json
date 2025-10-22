@@ -1,0 +1,662 @@
+[
+    {
+        "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png",
+        "title": "Spotify Music",
+        "companyName": "Spotify AB",
+        "id": 1,
+        "description": "Stream millions of songs, podcasts, and playlists from artists all around the world.",
+        "size": 92,
+        "reviews": 12500000,
+        "ratingAvg": 4.6,
+        "downloads": 5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 320000
+            },
+            {
+                "name": "2 star",
+                "count": 210000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 2500000
+            },
+            {
+                "name": "5 star",
+                "count": 9500000
+            }
+        ]
+    },
+    {
+        "image": "https://st2.depositphotos.com/5261163/10934/v/950/depositphotos_109348510-stock-illustration-instagram-logotype-new.jpg",
+        "title": "Instagram",
+        "companyName": "Meta Platforms Inc.",
+        "id": 2,
+        "description": "Share your photos, stories, and moments with friends and followers worldwide.",
+        "size": 120,
+        "reviews": 18000000,
+        "ratingAvg": 4.4,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 12100000
+            }
+        ]
+    },
+    {
+        "image": "https://img.freepik.com/premium-vector/snapchat-social-media-app-logo-snapchat-icon-vector_999008-2075.jpg?semt=ais_hybrid&w=740&q=80",
+        "title": "Snapchat",
+        "companyName": "Snap Inc.",
+        "id": 3,
+        "description": "Connect instantly with friends, send Snaps, and explore interactive AR filters.",
+        "size": 85,
+        "reviews": 8900000,
+        "ratingAvg": 4.3,
+        "downloads": 5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 900000
+            },
+            {
+                "name": "4 star",
+                "count": 2300000
+            },
+            {
+                "name": "5 star",
+                "count": 5150000
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
+        "title": "WhatsApp",
+        "companyName": "Meta Platforms Inc.",
+        "id": 4,
+        "description": "Fast, simple, and secure messaging and calling for free, available worldwide.",
+        "size": 70,
+        "reviews": 25000000,
+        "ratingAvg": 4.7,
+        "downloads": 5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 1100000
+            },
+            {
+                "name": "4 star",
+                "count": 4300000
+            },
+            {
+                "name": "5 star",
+                "count": 18700000
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 5,
+        "description": "Watch, upload, and share videos with the world’s largest video community.",
+        "size": 145,
+        "reviews": 32000000,
+        "ratingAvg": 4.5,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 700000
+            },
+            {
+                "name": "3 star",
+                "count": 1500000
+            },
+            {
+                "name": "4 star",
+                "count": 6000000
+            },
+            {
+                "name": "5 star",
+                "count": 23000000
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/BmUViDVOKNJe0GYJe22hsr7juFndRVbvr1fGmHGXqHfJjNAXjd26bfuGRQpVrpJ6YbA",
+        "title": "TikTok",
+        "companyName": "ByteDance Ltd.",
+        "id": 6,
+        "description": "Create, share, and watch short videos with millions of creators worldwide.",
+        "size": 110,
+        "reviews": 22000000,
+        "ratingAvg": 4.4,
+        "downloads": 3,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 1300000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 14800000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_960_720.png",
+        "title": "Telegram",
+        "companyName": "Telegram FZ-LLC",
+        "id": 7,
+        "description": "A fast and secure cloud-based messaging app with advanced privacy features.",
+        "size": 95,
+        "reviews": 5500000,
+        "ratingAvg": 4.6,
+        "downloads": 4,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150000
+            },
+            {
+                "name": "2 star",
+                "count": 100000
+            },
+            {
+                "name": "3 star",
+                "count": 400000
+            },
+            {
+                "name": "4 star",
+                "count": 1200000
+            },
+            {
+                "name": "5 star",
+                "count": 3650000
+            }
+        ]
+    },
+    {
+        "image": "https://www.fahimai.com/wp-content/uploads/2024/05/2-3.png",
+        "title": "CapCut",
+        "companyName": "Bytedance Pte. Ltd.",
+        "id": 8,
+        "description": "Powerful and easy-to-use video editing app with advanced AI tools and effects.",
+        "size": 160,
+        "reviews": 6300000,
+        "ratingAvg": 4.5,
+        "downloads": 3,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 180000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 1700000
+            },
+            {
+                "name": "5 star",
+                "count": 3650000
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo",
+        "title": "Facebook",
+        "companyName": "Meta Platforms Inc.",
+        "id": 9,
+        "description": "Connect with friends, share updates, photos, and join communities you care about.",
+        "size": 130,
+        "reviews": 30000000,
+        "ratingAvg": 4.2,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200000
+            },
+            {
+                "name": "2 star",
+                "count": 800000
+            },
+            {
+                "name": "3 star",
+                "count": 2500000
+            },
+            {
+                "name": "4 star",
+                "count": 7000000
+            },
+            {
+                "name": "5 star",
+                "count": 18500000
+            }
+        ]
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740&q=80",
+        "title": "X (Twitter)",
+        "companyName": "X Corp.",
+        "id": 10,
+        "description": "Stay informed with breaking news, trends, and conversations from around the world.",
+        "size": 100,
+        "reviews": 12000000,
+        "ratingAvg": 4.0,
+        "downloads": 5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 700000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 3000000
+            },
+            {
+                "name": "5 star",
+                "count": 6500000
+            }
+        ]
+    },
+    {
+        "image": "https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/91/5f9b61e42640e.png",
+        "title": "Gmail",
+        "companyName": "Google LLC",
+        "id": 11,
+        "description": "Secure, smart, and easy-to-use email app from Google.",
+        "size": 90,
+        "reviews": 11000000,
+        "ratingAvg": 4.6,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 2500000
+            },
+            {
+                "name": "5 star",
+                "count": 7600000
+            }
+        ]
+    },
+    {
+        "image": "https://images.seeklogo.com/logo-png/26/1/new-google-maps-icon-logo-png_seeklogo-268336.png",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "id": 12,
+        "description": "Navigate and explore the world with real-time GPS and local business info.",
+        "size": 105,
+        "reviews": 9000000,
+        "ratingAvg": 4.7,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 250000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 2000000
+            },
+            {
+                "name": "5 star",
+                "count": 6100000
+            }
+        ]
+    },
+    {
+        "image": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+        "title": "Netflix",
+        "companyName": "Netflix, Inc.",
+        "id": 13,
+        "description": "Stream movies, TV shows, and original series instantly on any device.",
+        "size": 180,
+        "reviews": 15000000,
+        "ratingAvg": 4.5,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 3500000
+            },
+            {
+                "name": "5 star",
+                "count": 9400000
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s",
+        "title": "Prime Video",
+        "companyName": "Amazon.com, Inc.",
+        "id": 14,
+        "description": "Watch exclusive Amazon Originals and popular movies & TV shows.",
+        "size": 150,
+        "reviews": 6000000,
+        "ratingAvg": 4.3,
+        "downloads": 8,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 1800000
+            },
+            {
+                "name": "5 star",
+                "count": 3100000
+            }
+        ]
+    },
+    {
+        "image": "https://img.freepik.com/premium-vector/google-play-store-logo_1273375-804.jpg?semt=ais_hybrid&w=740&q=80",
+        "title": "Google Play Store",
+        "companyName": "Google LLC",
+        "id": 15,
+        "description": "Download millions of apps, games, music, and movies safely from Google Play.",
+        "size": 95,
+        "reviews": 4500000,
+        "ratingAvg": 4.8,
+        "downloads": 10,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100000
+            },
+            {
+                "name": "2 star",
+                "count": 80000
+            },
+            {
+                "name": "3 star",
+                "count": 200000
+            },
+            {
+                "name": "4 star",
+                "count": 700000
+            },
+            {
+                "name": "5 star",
+                "count": 3400000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.worldvectorlogo.com/logos/zoom-app.svg",
+        "title": "Zoom Cloud Meetings",
+        "companyName": "Zoom Video Communications, Inc.",
+        "id": 16,
+        "description": "Join HD video meetings with up to 100 participants easily.",
+        "size": 115,
+        "reviews": 10000000,
+        "ratingAvg": 4.5,
+        "downloads": 5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 1800000
+            },
+            {
+                "name": "5 star",
+                "count": 7600000
+            }
+        ]
+    },
+    {
+        "image": "https://img.freepik.com/premium-vector/vector-circle-linkedin-logo-icon_534308-21668.jpg?semt=ais_hybrid&w=740&q=80",
+        "title": "LinkedIn",
+        "companyName": "Microsoft Corp.",
+        "id": 17,
+        "description": "Build your professional network, find jobs, and grow your career.",
+        "size": 100,
+        "reviews": 7000000,
+        "ratingAvg": 4.3,
+        "downloads": 3,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 180000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 1500000
+            },
+            {
+                "name": "5 star",
+                "count": 4600000
+            }
+        ]
+    },
+    {
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_kuTpSCgNslJfl3YWfrSoyP6c4ouoMZ9R8yRy2e0T2TlXdw=s900-c-k-c0x00ffffff-no-rj",
+        "title": "Pinterest",
+        "companyName": "Pinterest Inc.",
+        "id": 18,
+        "description": "Discover and save creative ideas for recipes, fashion, home decor, and more.",
+        "size": 90,
+        "reviews": 5600000,
+        "ratingAvg": 4.6,
+        "downloads": 4,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150000
+            },
+            {
+                "name": "2 star",
+                "count": 100000
+            },
+            {
+                "name": "3 star",
+                "count": 400000
+            },
+            {
+                "name": "4 star",
+                "count": 1300000
+            },
+            {
+                "name": "5 star",
+                "count": 3650000
+            }
+        ]
+    },
+    {
+        "image": "https://assets.mofoprod.net/network/images/discord.original_O7AzcAH.jpg",
+        "title": "Discord",
+        "companyName": "Discord Inc.",
+        "id": 19,
+        "description": "Talk, chat, and hang out with your friends and communities in voice or text.",
+        "size": 130,
+        "reviews": 8000000,
+        "ratingAvg": 4.7,
+        "downloads": 2,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150000
+            },
+            {
+                "name": "2 star",
+                "count": 100000
+            },
+            {
+                "name": "3 star",
+                "count": 400000
+            },
+            {
+                "name": "4 star",
+                "count": 1300000
+            },
+            {
+                "name": "5 star",
+                "count": 6000000
+            }
+        ]
+    },
+    {
+        "image": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBb8YkqrmoFjcMUJULGOJelCJMVVYqVCCwT2tHcVZxLYJVwzBiHBQkkooRPjQ.nOJnaLAlSk..LmSDZQjm39gwBY-&format=source",
+        "title": "Canva",
+        "companyName": "Canva Pty Ltd.",
+        "id": 20,
+        "description": "Design anything with Canva — posters, social posts, videos, and more.",
+        "size": 150,
+        "reviews": 6200000,
+        "ratingAvg": 4.8,
+        "downloads": 3,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100000
+            },
+            {
+                "name": "2 star",
+                "count": 80000
+            },
+            {
+                "name": "3 star",
+                "count": 300000
+            },
+            {
+                "name": "4 star",
+                "count": 1200000
+            },
+            {
+                "name": "5 star",
+                "count": 4500000
+            }
+        ]
+    }
+]
