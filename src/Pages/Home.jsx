@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import Navbar from '../Component/Navbar';
 import Footer from '../Component/Footer';
 import Banner from '../Component/Banner';
@@ -11,7 +11,9 @@ const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <AllApp data={data} ></AllApp>
+            <Suspense>
+                <AllApp data={data} ></AllApp>
+            </Suspense>
         </div>
     );
 };
