@@ -19,20 +19,26 @@ const Navbar = () => {
                             <li><a>Item 3</a></li>
                         </ul>
                     </div>
-                    <a className=" ml-8 flex items-center gap-2 font-bold text-xl"> <img className=' h-[50px] ' src={logoImg} alt="" /> <p className="bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] bg-clip-text text-transparent text-2xl font-bold">
-                        HERO.io
-                    </p></a>
+                    <Link to="/" >
+                         <div className=" ml-8 flex items-center gap-2 font-bold text-xl" >
+                            <img className=' h-[50px] ' src={logoImg} alt="" /> <p className="bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] bg-clip-text text-transparent text-2xl font-bold">
+                            HERO.io
+                        </p>
+                         </div>
+                    </Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
                         <Link to="/"><li className=' font-semibold m-1 ' ><button className='btn border-0 bg-white'>Home</button></li></Link>
                         <Link to="app" ><li className=' font-semibold m-1 ' ><button className='btn border-0 bg-white'>Apps</button></li></Link>
+                        <Link to="installApp">
                         <li className=' font-semibold m-1 ' ><button className='btn border-0 bg-white'>Installation</button>  </li>
+                        </Link>
                     </ul>
                 </div>
                 <div className="navbar-end">
                     <a className="btn bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] text-white font-semibold px-6 py-2 rounded-xl" href="https://github.com/Md-Baayejid">
-                       <img src={gitImg} alt="" /> Contribute
+                        <img src={gitImg} alt="" /> Contribute
                     </a>
 
                 </div>
