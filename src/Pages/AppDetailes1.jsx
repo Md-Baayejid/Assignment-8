@@ -6,6 +6,7 @@ import { MdReviews } from "react-icons/md";
 import { addToStoreDB } from '../Utility/Utility';
 
 
+
 const AppDetailes = () => {
     const [installed, setInstalled] = useState(false);
     const { id } = useParams()
@@ -15,8 +16,10 @@ const AppDetailes = () => {
     // console.log(singleApp)
 
     const handleInstall = (id) => {
+       
         addToStoreDB(id)
         setInstalled(true);
+        
     }
 
     return (
@@ -47,11 +50,12 @@ const AppDetailes = () => {
                         </div>
                     </div>
 
-                    <button onClick={() => handleInstall(id)} className='btn bg-[#00D390] text-white'  disabled={installed} >{installed ? 'Installed' : 'Install Now'}</button>
+                    <button onClick={() => handleInstall(id)} className='btn bg-[#00D390] text-white' disabled={installed} >{installed ? 'Installed' : 'Install Now'}</button>
 
                 </div>
 
             </div>
+
 
 
             <div>
@@ -59,7 +63,6 @@ const AppDetailes = () => {
                 <p className=' pt-[20px] text-gray-500 ' >{singleApp.description}</p>
 
             </div>
-
         </div>
     );
 };

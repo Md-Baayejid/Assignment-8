@@ -4,12 +4,26 @@ import { getStoreApp } from '../Utility/Utility';
 import InsAppDetailes from './InsAppDetailes';
 
 const InstallApp = () => {
+
+     const [sort, setsort] = useState([])
+    const handleSort = (type) => {
+        setsort(type)
+        if (type==="Low-High") {
+            const shortByPage = [...insApp].sort((a,b) => a.downloads - b.downloads);
+            setInsApp(shortByPage)
+        }
+        if (type === "High-Low") {
+            const shortByRating = [...insApp].sort((a,b) => b.downloads - a.downloads);
+            setInsApp(shortByRating)
+        }
+    }
+
     const data = useLoaderData();
     const [insApp, setInsApp] = useState([])
     useEffect(() => {
         const storeAppData = getStoreApp()
         const convertAppData = storeAppData.map(app => parseInt(app))
-        
+
         const appList = data.filter(app => convertAppData.includes(app.id))
         setInsApp(appList)
     }, [])
@@ -24,13 +38,17 @@ const InstallApp = () => {
                     <p className=' text-[20px] font-semibold ' > {insApp.length} Apps Found</p>
                 </div>
                 <div>
-                    <button className='btn'>
-                        Hello
-                    </button>
+                    <details className="dropdown">
+                        <summary className="btn m-1"> Sort : {sort?sort:""}</summary>
+                        <ul className="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+                            <li><a onClick={()=>handleSort("High-Low")} >High-Low</a></li>
+                            <li><a onClick={()=>handleSort("Low-High")} >Low-High</a></li>
+                        </ul>
+                    </details>
                 </div>
             </div>
             {
-                insApp.map((app)=><InsAppDetailes key={app.id} app={app} ></InsAppDetailes>)
+                insApp.map((app) => <InsAppDetailes key={app.id} app={app} ></InsAppDetailes>)
             }
         </div>
     );
